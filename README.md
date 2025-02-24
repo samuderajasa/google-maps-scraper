@@ -28,7 +28,7 @@ We will use limited free account with $300 in credits. A credit card is still re
 3. Agree to the TOS and continue
 4. Click the 'Select a Project' button in the upper left then click 'New Project' button
 ![create project 1](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_1.PNG)
-![create project 2](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_2.PNG.png)
+![create project 2](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_2.PNG)
 
 5. Fill in the Project Name and Location then click 'Create'
 ![create project 3](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_3.PNG)
@@ -44,7 +44,7 @@ We will use limited free account with $300 in credits. A credit card is still re
 
 9. Go to 'Library' on the left sidebar, search for 'Places' then enable it
 ![create project 7](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_7.PNG)
-![create project 8](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_8.PNG
+![create project 8](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_8.PNG)
 
 10. You will be directed to the free trial sign-up page, click 'Agree and Continue' then fill in the details. Your Places Library is ready to use with limited free credits.
 
