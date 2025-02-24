@@ -27,24 +27,24 @@ We will use limited free account with $300 in credits. A credit card is still re
 2. Sign up if you don't already have a Google account
 3. Agree to the TOS and continue
 4. Click the 'Select a Project' button in the upper left then click 'New Project' button
-![create project 1](assets/create_project_1.png)
-![create project 2](assets/create_project_2.png)
+![create project 1](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_1.PNG)
+![create project 2](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_2.PNG.png)
 
 5. Fill in the Project Name and Location then click 'Create'
-![create project 3](assets/create_project_3.png)
+![create project 3](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_3.PNG)
 
 6. Go to 'Credentials' in the left sidebar to create your API Key
-![create project 4](assets/create_project_4.png)
+![create project 4](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_4.PNG)
 
 7. Click 'Create Credentials' then select 'API Key'
-![create project 5](assets/create_project_5.png)
+![create project 5](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_5.PNG)
 
 8. The API key will be created. You will need this key in the code
-![create project 6](assets/create_project_6.png)
+![create project 6](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_6.PNG)
 
 9. Go to 'Library' on the left sidebar, search for 'Places' then enable it
-![create project 7](assets/create_project_7.png)
-![create project 8](assets/create_project_8.png)
+![create project 7](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_7.PNG)
+![create project 8](https://github.com/samuderajasa/google-maps-scraper/blob/master/assets/create_project_8.PNG
 
 10. You will be directed to the free trial sign-up page, click 'Agree and Continue' then fill in the details. Your Places Library is ready to use with limited free credits.
 
